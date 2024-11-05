@@ -1,0 +1,40 @@
+El curso de introducción a la IA - El arte de lo posible 
+Presenta el concepto, los casos practicas de la IA generativa en un contexto empresarial 
+Al final del curso podré describir qué es la IA generativa y como se adapta al machine learning. 
+
+
+La IA generativa es la rama del machine learning relacionada con el desarrollo de algoritmos que pueden crear texto en lenguaje natural, imágenes, codigo, audio o videos en función de las entradas del usuario 
+La IA generativa tiene varias aplicaciones en industrias, como los medios, el entretenimienot, la sanidad y las finanzas. 
+
+¿Qué es el machine learning? 
+    Para comprender la IA generativa es importante comprender el machine learning 
+    Por ejemplo preguntandose "¿Cómo aprenden las máquinas? 
+    El ML consiste en entrenar a un equipo para que reconozca patrones en datos históricos para hacer predicciones en datos nuevos. Luego, estas predicciones se usan para tomar medidas empresariales.
+
+        Se usa un conjunto de datos para entrenar al modelo. 
+        En este conjunto de datos, hay funciones y etiquetas.
+        La idea es usar las funciones como entradas y encontrar una fórmula que prediga las etiquetas, o los resultados.
+        Los algoritmos de ML obtenidos pueden tomar datos nuevos, reconocer patrones en los datos. Y en base a esto, aplicar la fórmula para hacer predicciones de los datos.
+
+    La diferencia sustancial entre la IA generativa y el ML reside en que la IA 
+    es un subconjunto del aprendizaje profundo porque puede adaptar diferentes modelos y ajustarse a ellos sin necesidad de reentrenarse ni hacerle ajustes. Su aprendizaje usa el concepto de neuronas y sinapsis de forma similar a cómo está conectado nuestro cerebro. 
+    La IA generativa, se alimenta de modelos de lenguajes de gran tamaño que se preentrenan con datos dee internet, a los que se les reconoce como modelos funcionales FM 
+    En lugar de recopilar datos etiquetados para cada modelo y entrenar varios modelos como el ML, los clientes pueden adaptar un mismo modelo funcional para hacer varias tareas 
+
+    Los lenguajes de gran tamaño LLM 
+    tienen la capacidad de predecir la siguiente palabra de una oracion al tener en cuenta la posicion y el contexto de una oracion, estos se nutren de esta capcidad para generar contenido nuevo  
+
+    Amazon desarrolló CodeWhisperer, que mejoraba la productividad de los desarrolladores, al evitarles la necesidad de hacer busquedas en linea o preguntarle a algún compañero  
+
+
+Casos prácticos de la IA generativa 
+    Amazon se enfoca en tres microcapas de la IA generativa: Cómputo, creación de modelos y FM. 
+
+        Cómputo: Se necesita para ejecutar modelo de lenguaje de gran tamaño LLM. Amazon dispone de dos chips especializados para este fin. Los detalles son los siguientes: 
+        AWS Inferentia y AWS Trainium son acelerados de ML personalizados que AWS diseña desde 0 
+        
+        Creación de modelos propios: Usando Amazon SageMaker JumpStart. Los detalles son los siguientes. 
+            Se puede usar SageMaker junto con el chipAWS Trainium personalizado para entrenar sus propios LLM 
+            Como alternativa se puede elegir unos de los modelos de lenguajes y reentrenarlo con sus propios datos  
+
+La IA generativa en la práctica
